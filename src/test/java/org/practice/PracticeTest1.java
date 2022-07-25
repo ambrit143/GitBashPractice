@@ -28,5 +28,6 @@ public class PracticeTest1 {
 
           Reporter.log("i am doing jenkin integration1 ",true);
           }
+      //bye bye
 
 }
