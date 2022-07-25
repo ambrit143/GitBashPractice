@@ -29,5 +29,10 @@ public class PracticeTest1 {
           Reporter.log("i am doing jenkin integration1 ",true);
           }
       //bye bye
+      public void display6() {
+
+          Reporter.log("i am doing jenkin integration1 ",true);
+          }
+      //bye bye
 
 }
